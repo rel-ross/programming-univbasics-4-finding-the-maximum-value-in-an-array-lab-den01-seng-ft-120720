@@ -7,5 +7,5 @@ while count < array.length do
  end
   count +=1
 end
-
+max_value
 end
